@@ -1,0 +1,2 @@
+# AIGC
+everthing about AIGC
